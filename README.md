@@ -21,6 +21,7 @@ The desired outcome of this project was to create an artificially intelligent ga
 To run this application you will need Python 2.7 and the following libraries
  * NumPy
  * Tkinter
+
 To run the application with UI you have to run the Main.py file.
 
 ## Issues
